@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A14.ChainOfResponsibilityPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A15.CommandPattern", "A15.CommandPattern\A15.CommandPattern.csproj", "{8F7A831D-C110-43E6-B4F7-D5AC8EC38687}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A16.InterpreterPattern", "A16.InterpreterPattern\A16.InterpreterPattern.csproj", "{B320E352-6D15-43C8-A523-31B41DABA27B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A17.LteratorPattern", "A17.LteratorPattern\A17.LteratorPattern.csproj", "{6C98187E-A22F-4839-AE20-839782BFE114}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{8F7A831D-C110-43E6-B4F7-D5AC8EC38687}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F7A831D-C110-43E6-B4F7-D5AC8EC38687}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F7A831D-C110-43E6-B4F7-D5AC8EC38687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B320E352-6D15-43C8-A523-31B41DABA27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B320E352-6D15-43C8-A523-31B41DABA27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B320E352-6D15-43C8-A523-31B41DABA27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B320E352-6D15-43C8-A523-31B41DABA27B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C98187E-A22F-4839-AE20-839782BFE114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C98187E-A22F-4839-AE20-839782BFE114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C98187E-A22F-4839-AE20-839782BFE114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C98187E-A22F-4839-AE20-839782BFE114}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
